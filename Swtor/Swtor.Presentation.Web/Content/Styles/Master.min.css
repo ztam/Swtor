@@ -1,0 +1,10 @@
+﻿#background{position:fixed;top:0;width:100%;bottom:0;background:url(/Content/Images/hope-001.jpg) center -40px}
+#wrapper{position:relative}
+header{height:90px;position:relative;z-index:2;-moz-box-shadow:0 0 5px 5px #000;-webkit-box-shadow:0 0 5px 5px #000;box-shadow:0 0 10px 5px #000;background:#000 url(/Content/Images/StarTile.png) repeat;line-height:90px;padding-left:100px}
+header img{float:left;padding-top:10px;margin-right:20px}
+#contentBackground{width:900px;position:absolute;top:70px;left:50%;margin-left:-450px;background-color:#000;opacity:.8;-moz-box-shadow:0 0 5px 5px #000;-webkit-box-shadow:0 0 5px 5px #000;box-shadow:0 0 10px 5px #000}
+#content{width:900px;padding-top:10px;z-index:2;position:relative;margin:0 auto}
+nav{position:absolute;right:0;top:-30px;line-height:normal;font-size:1.6em;display:none}
+nav ul{margin:0;padding:0}
+nav li{list-style:none;float:left;margin-right:20px;font-family:'Play',sans-serif}
+footer{position:absolute;height:150px;-moz-box-shadow:0 0 5px 5px #000;-webkit-box-shadow:0 0 5px 5px #000;box-shadow:0 0 10px 5px #000;position:absolute;bottom:0;left:0;right:0;background:#000 url(/Content/Images/StarTile.png) repeat;z-index:2}
